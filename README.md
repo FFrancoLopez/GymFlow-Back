@@ -36,6 +36,8 @@ Gestión de imágenes: Integración con Cloudinary para el almacenamiento y gest
 
 🔹 Almacenamiento de imágenes: Cloudinary
 
+🔹 Documentación: ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)[API GymFlow](https://gymflow-back.onrender.com/api)
+
 🔹 Despliegue:  ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 # 🤓 Colaboradores
